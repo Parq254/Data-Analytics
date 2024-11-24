@@ -1,14 +1,17 @@
 # Beginner-Friendly Data Analytics Projects
 
-Welcome to a collection of beginner-friendly data analytics projects designed to introduce you to the exciting world of data! These projects will guide you through essential skills like data exploration, analysis, and visualization, and provide you with a foundation for further exploration.
+Welcome to a collection of beginner-friendly data analytics projects designed to introduce you to the exciting world of data! 
+These projects will guide you through essential skills like data exploration, analysis, and visualization, and provide you with a foundation for further exploration.
 
 ## Getting Started
 
 Before diving in, ensure you have the following:
 
 Python: Download and install Python from the official website:[Python download](https://www.python.org/downloads/)
-Data Analysis Libraries: Install libraries like pandas, NumPy, and Matplotlib for data manipulation and visualization. You can install them using pip install pandas numpy matplotlib.
+Data Analysis Libraries: Install libraries like pandas, NumPy, and Matplotlib for data manipulation and visualization. 
+You can install them using pip install pandas numpy matplotlib.
 IDE: Use an Integrated Development Environment (IDE) like Visual Studio Code or a simple text editor to write your code.
+
 What's Here?
 
 This repository offers various beginner-friendly data analytics projects, each building upon the previous one:
