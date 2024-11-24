@@ -13,26 +13,31 @@ What's Here?
 
 This repository offers various beginner-friendly data analytics projects, each building upon the previous one:
 
-Exploring a Dataset: (Warm-up)
+## Exploring a Dataset: (Warm-up)
 
 Learn how to load data from a CSV file using pandas.
 Get familiar with basic data exploration techniques like finding summary statistics and identifying missing values.
-Data Cleaning and Preprocessing:
+
+## Data Cleaning and Preprocessing:
 
 Practice cleaning and preparing data for analysis. This might involve handling missing values, converting data types, and dealing with outliers.
-Data Visualization Essentials:
+
+## Data Visualization Essentials:
 
 Learn how to create basic data visualizations like histograms, bar charts, and scatter plots using libraries like Matplotlib.
 Gain insights from visualizing trends, relationships, and distributions within your data.
-Simple Statistical Analysis:
+
+## Simple Statistical Analysis:
 
 Get introduced to basic statistical analysis using libraries like NumPy and pandas.
 Calculate common statistics like mean, median, standard deviation, and correlations.
-Predictive Modeling (Introduction):
+
+## Predictive Modeling (Introduction):
 
 Explore introductory concepts of building a simple predictive model using a sample dataset.
 This might involve splitting data into training and testing sets, training a model, and evaluating its performance.
-Challenge Yourself!
+
+## Challenge Yourself!
 
 Expand these projects by adding more complex features or functionalities.
 Experiment with different datasets and explore new data analysis techniques.
